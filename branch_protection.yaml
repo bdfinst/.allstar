@@ -1,0 +1,14 @@
+optConfig:
+  optOutStrategy: true
+  disableRepoOverride: true
+action: log
+enforceDefault: true
+requireApproval: true
+RequireCodeOwnerReviews: true
+approvalCount: 1
+dismissStale: true
+blockForce: true
+RequireUpToDateBranch: true
+RequireStatusChecks: true
+EnforceOnAdmins: true
+RequireSignedCommits: true
