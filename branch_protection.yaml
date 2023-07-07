@@ -1,7 +1,7 @@
 optConfig:
   optOutStrategy: true
   disableRepoOverride: true
-action: log
+action: issue
 enforceDefault: true
 requireApproval: true
 RequireCodeOwnerReviews: true
