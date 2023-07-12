@@ -1,5 +1,5 @@
 optConfig:
-  optOutStrategy: true
+  optOutStrategy: false
   disableRepoOverride: true
 action: issue
 PushAllowed: false
